@@ -32,8 +32,6 @@ A user should be able to add a new cat to their profile with the following infor
 - favorite snack
 - favorite toy
 - display in the feed (public/private)
-- active time/schedule
-- naps a day
 
 
 ## Adding pictures and videos
