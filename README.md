@@ -2,8 +2,6 @@
 
 ## Log a cat (logacat.com)
 
-After taking so many "take-home assessments", I decided to start this open source project to avoid having to take a brand new assessment.
-
 Technically this project aims to show the knowledge of the following technologies:
 
 - TypeScript
